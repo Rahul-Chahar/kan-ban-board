@@ -34,3 +34,21 @@
     background: orangered;
     color: blueviolet;
 }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.toggle-btn {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background: #333;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 20px;
+    margin-left: 500px
+
+}
