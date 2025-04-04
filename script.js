@@ -128,6 +128,3 @@ toggleButton.addEventListener("click", () => {
     toggleButton.classList.toggle("active");
     localStorage.setItem("darkMode", body.classList.contains("dark-mode") ? "enabled" : "disabled");
 });
-
-
-// 1:10
